@@ -1,4 +1,4 @@
-<?
+<?php
 // program menampilkan tanggal dan waktu
 
 echo "selamat datang!";
