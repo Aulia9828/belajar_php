@@ -1,4 +1,4 @@
-<?
+<?php
 // program hello word pertamaku!
 // dibuat oleh: aulia!
 
